@@ -9,9 +9,8 @@
 title: Phantom
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "https://8lack20ftc0w.github.io/
-/" # the subpath of your site, e.g. /blog
-url: "/8lack20ftc0w" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://8lack20ftc0w.github.io/" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
